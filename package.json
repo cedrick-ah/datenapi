@@ -1,6 +1,6 @@
 {
   "name": "datenapi",
-  "description": "Get date from js using c and napi",
+  "description": "Get date from js using C and napi",
   "keywords": [
     "date",
     "c",
