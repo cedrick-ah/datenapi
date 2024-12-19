@@ -1,0 +1,21 @@
+{
+  "name": "datenapi",
+  "description": "Get date from js using c and napi",
+  "keywords": [
+    "date",
+    "c",
+    "napi"
+  ],
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/cedrick-ah/datenapi.git"
+  },
+  "author": "cedrick-ah",
+  "license": "MIT",
+  "main": "./index.js",
+  "dependencies": {
+    "bindings": "~1.5.0"
+  },
+  "gypfile": true
+}
